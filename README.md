@@ -1,6 +1,6 @@
 # iems308qasystem
 
-`qa_system.ipynb` - Source code for building the QA system
+`qa_system.ipynb` - Source code for building the QA system - Include sample output and Example Questions
 
 `qa_system.py` - Source code for QA system - Customer facing interface is found here
 
