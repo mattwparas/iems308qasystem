@@ -11,3 +11,5 @@
 `find_percentages.py` - helper functions to find percentages (source code taken from HW3)
 
 `final_report.pdf` - Report containing Executive Summary and general report info
+
+`articles.csv` - CSV file with all of the articles sorted by day
