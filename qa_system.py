@@ -3,18 +3,14 @@ import ast
 import re
 import datetime
 from dateutil import parser
-
 import numpy as np
 from elasticsearch import Elasticsearch, helpers
 from elasticsearch_dsl import Search, query
 from nltk import tag, tokenize
 from nltk.corpus import stopwords
 from sklearn.feature_extraction.text import TfidfVectorizer
-# from typing import List, Tuple
 import string
-# from string import maketrans
 import pandas as pd
-
 from nltk.corpus import stopwords
 import os
 
